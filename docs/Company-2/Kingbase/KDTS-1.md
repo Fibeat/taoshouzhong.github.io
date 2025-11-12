@@ -65,7 +65,7 @@ cd /opt/Kingbase/ES/V9/Server/bin
 
 成功界面
 
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502802385-15593251-fbf8-46fe-8516-0363d41dd391.png)
+![](./images/成功界面.png)
 
 #### （2）启动数据库
 ```plain
@@ -76,7 +76,7 @@ cd /opt/Kingbase/ES/V9/Server/bin
 
 成功界面：
 
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502802858-6d2a65ae-cba3-4372-b33f-428032b2c10f.png)
+![](./images/数据库成功界面.png)
 
 #### （3）创建用户--flask_web
 ```plain
@@ -119,20 +119,20 @@ tail -f ../logs/kdts-app-console_2025-10-29_14-58-47.log
 
 ## 2.迁移实施
 #### （1）web界面
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502802140-3a4d011c-16c6-49f6-9cb4-b8310cb8f91d.png)
+![](./images/web.png)
 
 #### （2）源数据库：
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502802330-ebe115a2-7374-498d-be95-7c4c41503cd7.png)
+![](./images/源数据库.png)
 
 #### （3）目标数据库
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502803826-634f1ac7-eb82-4be3-8362-e4d1df9d40e9.png)
+![](./images/目标数据库.png)
 
 #### （4）迁移成功
 注意的一点是：
 
 不用勾选用户自定义类型
 
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502804015-02b5bfa5-f8fe-4c58-9114-29ffd86ef7b9.png)
+![](./images/迁移成功界面.png)
 
 # 二、导入sql文件
 #### (1)如果是用的Navicat到处的SQL文件，
@@ -185,7 +185,7 @@ chown -R kingbase:kingbase /opt/Kingbase/ES/V9/ClientTools/guitools/KDts/KDTS-WE
 ### 3.最主要的问题，
 停留很长时间
 
-![](https://cdn.nlark.com/yuque/0/2025/png/57984917/1762502803903-19c81102-0ae1-4c4c-9f01-51eefcc7e9cf.png)
+![](./images/问题3.png)
 
 ```plain
 ERROR ... The target owner 'flask_web' does not exists.
