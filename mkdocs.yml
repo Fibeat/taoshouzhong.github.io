@@ -8,9 +8,8 @@ site_description: 陶守忠的个人网站
 
 site_name: MkLorum
 nav:
-  - blog: index.md
-  - About: about.md
-  - Company-2:
+  - blog:
+    - MkLorum博客: blog/index.md
     - Kingbase: 
       - KDTS迁移：Company-2/Kingbase/KDTS迁移.md
-      
+  - About: about.md
