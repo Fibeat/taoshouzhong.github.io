@@ -10,3 +10,7 @@ site_name: MkLorum
 nav:
   - blog: index.md
   - About: about.md
+  - Company-2:
+    - Kingbase: 
+      - KDTS迁移：Company-2/Kingbase/KDTS迁移.md
+      
