@@ -6,7 +6,7 @@ site_author: 陶守忠
 site_description: 陶守忠的个人网站
 
 
-site_name: MkLorum
+#site_name: MkLorum
 nav:
   - blog: index.md
   - About: about.md
