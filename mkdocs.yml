@@ -11,10 +11,11 @@ site_description: 陶守忠的个人网站
 nav:
   - 文档:
     - index.md
-    - Kingbase: 
-      - Company-2/Kingbase/KDTS-1.md
-    - 东方通:
-      - Company-2/东方通/TongWeb.md
+    - Company-2:
+      - Kingbase: 
+        - Company-2/Kingbase/KDTS-1.md
+      - 东方通:
+        - Company-2/东方通/TongWeb.md
   - About: about.md
 
 # [UI]
