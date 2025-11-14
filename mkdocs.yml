@@ -16,6 +16,9 @@ nav:
         - Company-2/Kingbase/KDTS-1.md
       - 东方通:
         - Company-2/东方通/TongWeb.md
+    - Linux:
+      - Command:
+        - Linux/Command/Top.md
   - About: about.md
 
 # [UI]
