@@ -42,10 +42,9 @@
 # 2.top的进程信息
 
 
-    PID                                                        
+    PID   进程id                                             
     USER  进程拥有者
     PR    优先级
-    进程id 进程id 
     NI    nice负值高优先级，正值低优先级 进程使用的虚拟内存
     VIRT  进程使用的虚拟内存总量 VIRT=SWAP+RES
     RES   进程使用的未被换出的物理内存大小，RES=CODE+DATA
