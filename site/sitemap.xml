@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/Fibeat/github-blog/</loc>
-         <lastmod>2025-11-18</lastmod>
+         <lastmod>2025-11-24</lastmod>
     </url>
     <url>
          <loc>https://github.com/Fibeat/github-blog/Company-2/Kingbase/KDTS-1/</loc>
-         <lastmod>2025-11-18</lastmod>
+         <lastmod>2025-11-24</lastmod>
     </url>
     <url>
          <loc>https://github.com/Fibeat/github-blog/Company-2/%E4%B8%9C%E6%96%B9%E9%80%9A/TongWeb/</loc>
-         <lastmod>2025-11-18</lastmod>
+         <lastmod>2025-11-24</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/Fibeat/github-blog/Linux/go/</loc>
+         <lastmod>2025-11-24</lastmod>
     </url>
     <url>
          <loc>https://github.com/Fibeat/github-blog/Linux/Command/Top/</loc>
-         <lastmod>2025-11-18</lastmod>
+         <lastmod>2025-11-24</lastmod>
     </url>
 </urlset>
